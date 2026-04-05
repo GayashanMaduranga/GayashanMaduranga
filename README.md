@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayashan%20Kariyawasam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20AI%20Strategist&descAlignY=55&descSize=18" alt="Gayashan Kariyawasam - AI Engineer and LLM Architect" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayashan%20Kariyawasam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20AI%20Strategist&descAlignY=55&descSize=18" alt="Gayashan Kariyawasam - Tech Lead and AI Engineer" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%A4%96;From+Code+to+AI+Strategy+%F0%9F%9A%80;LLM+Architecture+%7C+AI+Security+%7C+Enterprise+AI;Bridging+Engineering+%26+Business+Strategy" alt="Typing animation: AI Engineer, LLM Architect, AI Strategist" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%A4%96;From+Code+to+AI+Strategy+%F0%9F%9A%80;Tech+Lead+%7C+AI+Security+%7C+Enterprise+AI;Bridging+Engineering+%26+Business+Strategy" alt="Typing animation: Tech Lead, AI Engineer, AI Strategist" /></a>
 
 <br/>
 
@@ -28,8 +28,7 @@
 ```python
 class AIEngineer:
     name       = "Gayashan Kariyawasam"
-    location   = "Sri Lanka 🇱🇰"
-    role       = "AI Engineer & LLM Architect"
+    role       = "Tech Lead & AI Engineer"
     focus      = ["LLM Architecture", "AI Security", "Enterprise AI Strategy",
                   "AI Agent Design", "Generative AI"]
     newsletter = "From Code to AI Strategy (Biweekly on LinkedIn)"
@@ -41,7 +40,7 @@ class AIEngineer:
 
 > **"A practical explorer of how AI is changing the way we build, think, and make decisions."**
 
-I'm an AI Engineer and strategist based in Sri Lanka who works at the intersection of **hands-on AI development** and **high-level AI strategy**. I help enterprise teams design secure, scalable, and purposeful AI systems — going beyond the hype to build things that actually work in production.
+I'm a Tech Lead and AI Engineer who works at the intersection of **hands-on AI development** and **high-level AI strategy**. I help enterprise teams design secure, scalable, and purposeful AI systems — going beyond the hype to build things that actually work in production.
 
 ---
 
@@ -95,12 +94,12 @@ Publishing **"From Code to AI Strategy"** — practical, framework-driven insigh
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Development**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -187,4 +186,4 @@ I'm always open to discussing **AI architecture**, **enterprise AI strategy**, o
 
 </div>
 
-<!-- SEO: AI Engineer Sri Lanka, LLM Architect, Enterprise AI Strategy, AI Security, Generative AI, LangChain Developer, AI Agent Design, Machine Learning Engineer, AI Consultant, From Code to AI Strategy Newsletter -->
+<!-- SEO: Tech Lead, AI Engineer, Enterprise AI Strategy, AI Security, Generative AI, LangChain Developer, AI Agent Design, Machine Learning Engineer, Java Developer, From Code to AI Strategy Newsletter -->
