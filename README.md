@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Newsletter-From%20Code%20to%20AI%20Strategy-FF6000?style=for-the-badge&logo=rss&logoColor=white" alt="From Code to AI Strategy Newsletter"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=GayashanMaduranga&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views Counter"/>
+<img src="https://komarev.com/ghpvc/?username=gayashankariyawasam&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views Counter"/>
 
 </div>
 
@@ -135,12 +135,12 @@ A **biweekly newsletter** exploring how AI is changing the way we build, think, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GayashanMaduranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Gayashan's GitHub Statistics" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GayashanMaduranga&theme=tokyonight&hide_border=true" alt="Gayashan's GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gayashankariyawasam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Gayashan's GitHub Statistics" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gayashankariyawasam&theme=tokyonight&hide_border=true" alt="Gayashan's GitHub Streak" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayashanMaduranga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Gayashan's Most Used Programming Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayashankariyawasam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Gayashan's Most Used Programming Languages" width="49%"/>
 
 </div>
 
@@ -150,7 +150,7 @@ A **biweekly newsletter** exploring how AI is changing the way we build, think, 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayashanMaduranga&theme=tokyo-night&hide_border=true&area=true" alt="Gayashan's GitHub Contribution Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayashankariyawasam&theme=tokyo-night&hide_border=true&area=true" alt="Gayashan's GitHub Contribution Activity Graph" width="95%"/>
 
 </div>
 
