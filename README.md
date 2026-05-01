@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/gayashan-kariyawasam-826001160">
+<a href="https://www.linkedin.com/in/gayashan-kariyawasam">
   <img src="https://img.shields.io/badge/LinkedIn-Gayashan%20Kariyawasam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 &nbsp;
@@ -162,7 +162,7 @@ A **biweekly newsletter** exploring how AI is changing the way we build, think, 
 
 I'm always open to discussing **AI architecture**, **enterprise AI strategy**, or collaborating on **open-source AI projects**.
 
-<a href="https://linkedin.com/in/gayashan-kariyawasam-826001160">
+<a href="https://www.linkedin.com/in/gayashan-kariyawasam">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 &nbsp;
